@@ -3,15 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sallumia&label=Profile%20views&color=0e75b6&style=flat" alt="sallumia" /> </p>
 
-- 🔭 I’m currently working on **Beard Friends**
+- 🔭 I’m currently working on **Verrevv & Asksophia Deployment's**
+
+- 🌱 I’m currently learning **Data Structures & Algorithm's**
+
+- 👯 I’m looking to collaborate on **Direct Sciences Backend**
 
 - 💬 Ask me about **MERN STACK, FRONTEND, BACKEND, DEVOPS**
 
 - 📫 How to reach me **sallumia9090@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1e1wFoNaEYji50u3o4Gko5o-LU1F_t-CS/view?usp=drive_link](https://drive.google.com/file/d/1e1wFoNaEYji50u3o4Gko5o-LU1F_t-CS/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sule man" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sule man" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
